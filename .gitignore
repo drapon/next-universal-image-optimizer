@@ -1,0 +1,44 @@
+# Node dependencies
+node_modules/
+
+# Production build output
+dist/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage directory used by jest
+coverage/
+
+# Temporary files
+*.log
+*.lock
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Jest cache
+.jest/
+
+# Build cache
+.next/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# pnpm state store
+.pnpm-store/
+
+# Public directory
+public/
+
+# Out directory
+out/
