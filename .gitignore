@@ -42,3 +42,6 @@ public/
 
 # Out directory
 out/
+
+# secret files
+.secrets
