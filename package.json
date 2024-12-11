@@ -1,6 +1,6 @@
 {
   "name": "next-universal-image-optimizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A build-time image optimization tool for Next.js, supporting both internal and external image sources.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
